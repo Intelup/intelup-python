@@ -1,11 +1,11 @@
-# intelup-python
+# intelup_python
 
-Python module that sends data to Intelup platform.
+A package that sends data to Intelup platform.
 
 # Basic usage
 
 ```python
-from intelup-python import Intelup
+from intelup_python import Intelup
 
 # initialize with device token
 intelup = Intelup("WQBhRxGrU8dEhfRy1WAQhD")
